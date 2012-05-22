@@ -1,0 +1,6 @@
+-:Readme:-
+This is a demonstration of Test Driven Development in C# using NUnit and Rhino Mock.
+The examples are running sucessfully on Visual Studio 2010.
+I am using the latest version of both  NUnit & Rhino Mocks.
+All copyrights of the said products also apply on this redistributed project.
+In case if you get a reference error for Rhino mock, use the instructions as given  <a href="http://stackoverflow.com/questions/2775538/unable-to-add-rhino-mocks-3-5-to-a-net-2-0-project-in-visual-studio-2010">here</a>.
